@@ -2,7 +2,7 @@
 
 A sophisticated **binomial tree options pricing model** with real market data integration, GARCH volatility forecasting, and comprehensive risk metrics. Built for pricing both European and American options across multiple global markets.
 
-![Options Pricing Dashboard](options_pricing_dashboard.png)
+![Options Pricing Dashboard](options_pricing_dashboard.pdf)
 
 ##  Key Features
 
